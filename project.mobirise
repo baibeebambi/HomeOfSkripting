@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "skQuery - Home of Skripting",
+        "title": "skQuery - Cheap Purchasable Skripts",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -580,7 +580,7 @@
     "Support.html": {
       "settings": {
         "meta_descr": "",
-        "title": "skQuery - Support",
+        "title": "skQuery - Cheap Purchasable Skripts",
         "order": 1
       },
       "components": [
