@@ -1832,10 +1832,86 @@ body {
     font-size: 4.25rem;
   }
 }
-.cid-r9Om6MXE9Z {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-r9TL2q2pTq {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-r9TL2q2pTq .row-links {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-r9TL2q2pTq .social-row {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-r9TL2q2pTq .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-r9TL2q2pTq .media-container-row .foot-menu {
+  list-style: none;
+  display: -webkit-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+  -webkit-justify-content: center;
+  -webkit-flex-wrap: wrap;
+}
+.cid-r9TL2q2pTq .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-r9TL2q2pTq .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-r9TL2q2pTq .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  -webkit-flex-wrap: wrap;
+}
+.cid-r9TL2q2pTq .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-r9TL2q2pTq .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-r9TL2q2pTq .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-r9TL2q2pTq .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-r9TL2q2pTq .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-r9TL2q2pTq .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-r9TL2q2pTq .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-r9TL2q2pTq foot-menu-item {
+  text-align: right;
 }
 .cid-r9OKjAgQvO .navbar {
   background: #393939;
@@ -3194,12 +3270,4 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-}
-.cid-r9TIgWLZSr {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r9TIgWLZSr .mbr-section-subtitle {
-  color: #767676;
 }
